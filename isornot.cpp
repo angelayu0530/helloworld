@@ -12,5 +12,6 @@ bool isornot (std::string name){
     return false;
 }
 int main (){
-   cout << isornot("boob") << endl;
+   cout << isornot("noms is gay") << endl;
+   cout << "noms is gay" <<endl;
 }

@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// An optimized version of Bubble Sort 
 void bubbleSort(vector<int>& arr) {
 //Best Case O(n) if array is in order
 //Worst case: o(n^2) Average:O (n^2)
